@@ -1,5 +1,6 @@
 # Pay-House-Rent-App
 
+# 📸 Images
  <pre>
  
  <img align="left" src="https://github.com/kursatkumsuz/Pay-House-Rent-App/blob/master/images/Screenshot_20220915_161201.png" width="20%">
@@ -15,7 +16,7 @@
 <img src="https://media.giphy.com/media/rCPLI8s5jIMf76HlZG/giphy.gif">
  </p>
  
-# 📸 Images
+
 
 
 
