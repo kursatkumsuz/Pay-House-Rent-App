@@ -82,7 +82,7 @@
             android:fontFamily="@font/poppins"
             android:text="Trusted by 1 million customers"
             android:textColor="#ffffff"
-            android:textSize="@dimen/_12sdp"
+            android:textSize="@dimen/_11sdp"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/startButton" />
 
