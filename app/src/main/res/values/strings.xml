@@ -5,4 +5,18 @@
     <string name="get_started">Get Started</string>
     <string name="tenant">Tenant</string>
     <string name="landlord">LandLord</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="rentpayz">RentPayz</string>
+    <string name="we_have_sent_otp_on_your_register_nmobile_number">We have sent OTP on your register\nmobile Number</string>
+    <string name="_15_sec_left">15 Sec Left</string>
+    <string name="don_t_receive_otp">Don\'t receive OTP?</string>
+    <string name="resend_again">Resend again</string>
+    <string name="verify_now">Verify Now</string>
+    <string name="login_to_contiune">Login to contiune</string>
+    <string name="don_t_have_an_account_signup">Don\'t have an account ? Signup</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="_90_xxxxx_yyyyy">+90 XXXXX YYYYY</string>
+    <string name="pay_house_rent_nonline">Pay House Rent\nOnline</string>
+    <string name="lowest_charges_instant_transfers">Lowest Charges. Instant Transfers.</string>
+    <string name="trusted_by_1_million_customers">Trusted by 1 million customers</string>
 </resources>
